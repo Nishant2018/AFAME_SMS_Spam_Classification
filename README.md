@@ -1,4 +1,4 @@
-# AFAME_Email_Spam_Classification
+# AFAME_SMS_Spam_Classification
 
 Deploying NLP Model using Flask
 
